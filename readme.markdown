@@ -6,3 +6,4 @@
 - [The Cost of Abstraction - 250bpm](http://250bpm.com/blog:86) 
 - [(3) Founder School Session: The Future Doesn't Have to Be Incremental - YouTube](https://www.youtube.com/watch?v=gTAghAJcO1o) 
 - [GitHub](https://github.com/) 
+- [(3) Alan Kay, 2015: Power of Simplicity - YouTube](https://www.youtube.com/watch?v=NdSD07U5uBs) 
