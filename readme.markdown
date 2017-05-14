@@ -10,3 +10,4 @@
 
 ### May 13, 2017
 - [Jepsen: CockroachDB beta-20160829](https://jepsen.io/analyses/cockroachdb-beta-20160829) 
+- [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy) 
