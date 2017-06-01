@@ -12,3 +12,6 @@
 - [Jepsen: CockroachDB beta-20160829](https://jepsen.io/analyses/cockroachdb-beta-20160829) 
 - [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy) 
 - [Regex Tester](http://regexpal.com.s3-website-us-east-1.amazonaws.com/) 
+
+### June 1, 2017
+- [the morning paper | an interesting/influential/important paper from the world of CS every weekday morning, as selected by Adrian Colyer](https://blog.acolyer.org/) 
