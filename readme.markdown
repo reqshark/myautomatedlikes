@@ -15,3 +15,4 @@
 
 ### June 1, 2017
 - [the morning paper | an interesting/influential/important paper from the world of CS every weekday morning, as selected by Adrian Colyer](https://blog.acolyer.org/) 
+- [Preparing Vim for Apple’s Touch Bar – CSS Wizardry – CSS Architecture, Web Performance Optimisation, and more, by Harry Roberts](https://csswizardry.com/2017/01/preparing-vim-for-apples-touch-bar/) 
