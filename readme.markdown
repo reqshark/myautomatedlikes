@@ -19,3 +19,6 @@
 
 ### June 10, 2017
 - [Mach-O Binaries](http://www.m4b.io/reverse/engineering/mach/binaries/2015/03/29/mach-binaries.html) 
+
+### June 21, 2017
+- [linuxpermission.com | The linux permission tool - permission calculator online tool](http://linuxpermission.com/) 
